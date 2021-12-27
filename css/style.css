@@ -7,7 +7,6 @@
 }
 
 html {
-	/* font-family: 'Roboto', sans-serif; */
 	font-family: 'Raleway', sans-serif;
 	font-size: 14px;
 	line-height: 16px;
@@ -46,16 +45,9 @@ input {
 	margin: 0 auto;
 }
 
-
-/* bgi */
-
 .bgi {
 	background: linear-gradient(180deg, #242B33 11.98%, rgba(45, 52, 60, 0.38) 51.04%, #242B33 92.19%), url(../img/bgi/Rectangle.png);
 }
-
-/* bgi */
-
-/* header */
 
 .header{
 	padding-top: 10px;
@@ -84,11 +76,6 @@ input {
 .logo{
 	padding-bottom: 40px;
 }
-
-
-/* header */
-
-/* hero */
 
 .hero {
 	padding: 250px 0 75px;
@@ -130,10 +117,6 @@ input {
 	color: #fff;
 }
 
-/* hero */
-
-/* info */
-
 .info {
 	background: #242B33;
 	padding-top: 120px;
@@ -165,9 +148,6 @@ input {
 	text-align: center;
 }
 
-/* info */
-
-/* apartament */
 
 .apartament {
 	padding-top: 20px;
@@ -209,10 +189,6 @@ input {
 	margin-bottom: 30px;
 }
 
-/* apartament */
-
-
-/* watch */
 
 .watch {
 	background: linear-gradient(180deg, #242B33 10.42%, rgba(36, 43, 51, 0) 50.52%, #242B33 90.1%), linear-gradient(0deg, rgba(36, 43, 51, 0.9), rgba(36, 43, 51, 0.9)), url(../img/watch/01.png);
@@ -302,10 +278,6 @@ input {
 	color: #FFFFFF;
 }
 
-/* watch */
-
-/* video */
-
 .video{
 	background-color: #242b33;
 	padding-bottom: 180px;
@@ -330,9 +302,6 @@ input {
 	background-repeat: no-repeat;
 }
 
-/* video */
-
-/* map */
 
 .map {
 	background: #242b33;
@@ -349,8 +318,6 @@ input {
 .map__item {
 	width: 100%;
 }
-
-/* map */
 
 .question {
 	background: #242B33;
@@ -371,7 +338,6 @@ input {
 	text-align: center;
 }
 
-/* question */
 
 .footer {
 	height: 272px;
@@ -436,8 +402,6 @@ input {
 .soc_link:not(:last-child) {
 	margin-right: 20px;
 }
-
-/* footer */
 
 a:hover{
 	text-decoration: underline;
